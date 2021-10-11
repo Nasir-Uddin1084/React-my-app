@@ -7,3 +7,25 @@
 .anotherClass{
   font-size: 35px;
 }
+.card{
+	background: coral;
+	box-shadow: 2px 4px 4px cornflowerblue;
+	padding: 10px;
+	width: 400px;
+	display: inline-block;
+	margin: 10px;
+}
+.title{
+	text-align: center;
+	font-size: 30px;
+}
+.cardTitle2{
+	font-size: 20px;
+	text-transform: uppercase;
+	color: white;
+}
+.cardTitle3{
+	font-size: 20px;
+	text-transform: uppercase;
+	color: white;
+}
