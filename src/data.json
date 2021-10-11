@@ -1,0 +1,17 @@
+[
+	{
+		"CountryName": "Bnagladesh",
+		"Capital": "Dhaka",
+		"City": "Mirpur"
+	},
+	{
+		"CountryName": "India",
+		"Capital": "Dehli",
+		"City": "Kolkata"
+	},
+	{
+		"CountryName": "USA",
+		"Capital": "New York",
+		"City": "Mechigan"
+	}
+]
